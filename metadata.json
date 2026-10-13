@@ -1,0 +1,7 @@
+{
+  "name": "AuraGold XAUUSD Precision Terminal",
+  "description": "Real-time XAU/USD algorithmic market analysis, LuxAlgo-style multi-timeframe confluence signals, institutional backtesting engine, and automated broker execution with strict risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
